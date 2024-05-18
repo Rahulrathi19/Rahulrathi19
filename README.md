@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript,python**
 
-- 💬 Ask me about **HTML , CSS , SQL ,OS**
+- 💬 Ask me about **HTML , CSS , SQL ,OS,C**
 
 - 📫 How to reach me **rahul.221cs141@nitk.edu.in**
 
